@@ -21,7 +21,7 @@ function App (){
           <div className='containerresult'>
             {
               
-              <p className='result'>{title}</p>
+              <h3 className='result'>{title}</h3>
              
             }
           
