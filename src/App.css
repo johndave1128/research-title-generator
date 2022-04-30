@@ -114,3 +114,11 @@
 .result {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  h1{
+    font-size: 1.5rem;
+  }
+}
