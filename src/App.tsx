@@ -14,14 +14,14 @@ function App (){
     <div className="App">
       <header className='App-header'>
         <div className='container'>
-          <h1> Research Titles Generator</h1>
+          <h1> Research Title Generator</h1>
           <p>This application provides study title suggestions at random for your reference or inspiration.</p>
           <p>Currently, the titles generated are for majors in computer science  and information technology</p>
           <p>Click the button below to generate other.</p>
           <div className='containerresult'>
             {
               
-              <h3 style:"color:blue;" className='result'>{title}</h3>
+              <h3 className='result'>{title}</h3>
              
             }
           
