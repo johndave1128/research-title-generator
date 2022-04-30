@@ -21,7 +21,7 @@ function App (){
           <div className='containerresult'>
             {
               
-              <h3 className='result'>{title}</h3>
+              <h3 style:"color:blue;" className='result'>{title}</h3>
              
             }
           
