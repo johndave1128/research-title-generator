@@ -638,7 +638,7 @@ const titles = [
     "Using GPUs to solve challenging optimization problem",
     "Using Machine Learning to Model Connections between Poli tical Competition and International Conflict",
     "Using Speech to Play Games",
-    "Vendo Pharma / Prescribing Machine / /-",
+    "Vendo Pharma Prescribing Machine",
     "Vendo Projects",
     "Verification framework for concurrent C programs",
     "Verification of Secure Transaction Protocols",
